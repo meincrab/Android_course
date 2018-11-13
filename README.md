@@ -9,9 +9,5 @@
 * Loppullinen yhistäminen ja tyyliminen - 7h
 * Yhdeessä - 51h
 
-
-### Tatu Paajanen
-* Perehtyminen kotlin - 5h
-* Näkymä "kuvat listassa" - 21h
-* Power point - 2h
-* yhteensä 28h
+Olen ihan tyytyväinen miten projekti onnistui. Vain yksi homma jäi - kun klikkaa kuvan tulee oikea kuva, mutta järjestys rikkoituu. Jos
+klikkanut kolmonen kuva, pitää tulla sen jälleen nelonen, mutta tulee ensimmäinen. 
