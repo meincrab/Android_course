@@ -28,3 +28,14 @@ klikkanut kolmonen kuva, pitää tulla sen jälleen nelonen, mutta tulee ensimm�
 
 Mielestäni projekti onnistui aika hyvin, olen saavuttanut kaiken mitä halusin projektin alkuvaiheessa.
 Parseri hakee ja tallentaa linkit kaikkiin html sivussa oleviin kuviin, adapteri hakee ja lisää ne kuvat GridLayoutiin Picasso kirjaston avulla.
+
+
+### Tatu Paajanen
+
+#### Tunnit:
+* Perehtyminen Kotliniin - 5h
+* Näkymä "Kuvat listassa" - 21h
+* PowePoint - 2h
+* Yhteensä - 28h
+
+Projekti onnistui hyvin. Saatiin tehtyä mitä pitikin. Ymmärsin väärin miten, mistä kuvat haetaan, mutta tämäkin saattiin korjattua.
