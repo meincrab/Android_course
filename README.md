@@ -24,7 +24,7 @@ klikkanut kolmonen kuva, pit채채 tulla sen j채lleen nelonen, mutta tulee ensimm�
 * Adapterin toteutus Kotlinilla - 7h
 * Viimeistely - 5h
 * Videon teko - 1h
-* Yhdeess채 - 47h
+* Yhteens채 - 47h
 
 Mielest채ni projekti onnistui aika hyvin, olen saavuttanut kaiken mit채 halusin projektin alkuvaiheessa.
 Parseri hakee ja tallentaa linkit kaikkiin html sivussa oleviin kuviin, adapteri hakee ja lis채채 ne kuvat GridLayoutiin Picasso kirjaston avulla.
